@@ -34,4 +34,4 @@ My journey started in **Linux systems**, but now I'm fully focused on the **web 
 ## 📫 How to reach me
 - **LinkedIn:** [https://www.linkedin.com/in/subhan-qedirli-13a423235/]
 - **Email:** subhanqedirli@protonmail.com
-- - **Alternative Email:** subhanqedirli0@gmail.com
+- **Alternative Email:** subhanqedirli0@gmail.com
