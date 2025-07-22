@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Subhan Gadirli 👋
 
-<!--
-**subhangadirli/subhangadirli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Full Stack Web Developer**  
+🐧 Ex-Linux Enthusiast turned Web Craftsman  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I'm passionate about building modern, scalable, and user-friendly web applications.  
+My journey started in **Linux systems**, but now I'm fully focused on the **web development world**, mastering both **frontend** and **backend** technologies.
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, PostgreSQL
+- **Other:** Git, GitHub, Linux, Docker
+
+---
+
+## 🚧 Current Goals
+- 📚 Deepen my expertise in Full Stack Development
+- 🏗️ Build projects that solve real-world problems
+- 🤝 Contribute to open-source
+
+---
+
+## 📈 GitHub Stats
+![Subhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhangadirli&show_icons=true&theme=radical)
+
+---
+
+## 📫 How to reach me
+- **LinkedIn:** [https://www.linkedin.com/in/subhan-qedirli-13a423235/]
+- **Email:** subhanqedirli@protonmail.com
+- - **Alternative Email:** subhanqedirli0@gmail.com
