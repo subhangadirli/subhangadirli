@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Subhan Gadirli
 ======================================================================================================================================
 
-🚀 Aspiring Full Stack Web Developer | 🐧 Ex-Linux Enthusiast
+🚀 Aspiring Full Stack Web Developer | 🐧 Linux Enthusiast
 -------------------------------------------------------------
 
 Hello! I’m Subhan Gadirli — a tech enthusiast who started in the world of Linux systems and is now diving deep into full stack web development. I enjoy crafting clean, scalable, and user-friendly web applications while constantly learning new technologies along the way.
