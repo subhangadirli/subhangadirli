@@ -42,4 +42,5 @@ Hello! I’m Subhan Gadirli — a tech enthusiast who started in the world of Li
 ## 📫 How to reach me
 - **Email:** subhanqedirli@protonmail.com
 - **Alternative Email:** subhanqedirli0@gmail.com
+- **Signal:** @subhangadirli.1903
 - **Telegram:** @subhangadirli
