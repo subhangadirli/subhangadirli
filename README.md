@@ -31,10 +31,6 @@ Hello! I’m Subhan Gadirli — a tech enthusiast who started in the world of Li
 
 ---
 
-## 🚧 Current Goals
-- 📚 Deepen my expertise in Full Stack Development
-- 🏗️ Build projects that solve real-world problems
-- 🤝 Contribute to open-source
 
 ## 📫 How to reach me
 - **Email:** subhanqedirli@protonmail.com
