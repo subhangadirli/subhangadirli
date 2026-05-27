@@ -10,8 +10,7 @@ I am <b>Subhan Gadirli</b>. Full-stack developer by day. Copyleft activist by ni
 
 Community Leader at https://githubcommunity.az/
 
-Contact
-============
+### Contact
 
 * Email: subhanqedirli@protonmail.com
 * Website: https://jkgadirli.dev/
