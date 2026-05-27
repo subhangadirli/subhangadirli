@@ -5,8 +5,7 @@
 /___/\_,_/_.__/_//_/\_,_/_//_/  \___/\_,_/\_,_/_/_/ /_/_/  
                                                            
 
-I am <b>Subhan Gadirli</b>. Chief Fork Officer at <b>JK Holding.</b>
-Full-stack developer by day. Copyleft activist by night.
+I am <b>Subhan Gadirli</b>. Chief Fork Officer at <b>JK Holding.</b> Full-stack developer by day. Copyleft activist by night.
 
 Community Leader at https://githubcommunity.az/
 
