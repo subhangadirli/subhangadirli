@@ -1,20 +1,13 @@
 <pre>
- ____        _     _汉 
-/ ___| _   _| |__ | |__   __ _ _ __ 
-\___ \| | | | '_ \| '_ \ / _` | '_ \ 
- ___) | |_| | |_) | | | | (_| | | | |
-|____/ \__,_|_.__/|_| |_|\__,_|_| |_|
-
-> OS:      Zorin OS / Alpine Linux
-> Tools:   Podman, Forgejo Actions, Webhooks
-> Status:  Fixing the server build
-</pre>
-
-Hi human being
+ ____        _     _汉      ____           _ _ _     
+/ ___| _   _| |__ | |__   _ _ / ___| __ _  __| (_)_ __| (_)
+\___ \| | | | '_ \| '_ \ / _` | |  _ / _` |/ _` | | '__| | |
+ ___) | |_| | |_) | | | | (_| | |_| | (_| | (_| | | |  | | |
+|____/ \__,_|_.__/|_| |_|\__,_|\____|\__,_|\__,_|_|_|  |_|_|
 
 ============
 
-I am **Subhan Gadirli**. Full-stack developer by day. Copyleft activist by night.
+I am <b>Subhan Gadirli</b>. Full-stack developer by day. Copyleft activist by night.
 
 Community Leader at https://githubcommunity.az/
 
@@ -27,5 +20,5 @@ Contact
 * Mastodon: https://mastodon.social/@subhanqedirli
 
 <br>
-
-[![Support via Patreon](https://img.shields.io/badge/Patreon-FF424D?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/subhangadirli) [![Support via Liberapay](https://img.shields.io/badge/Liberapay-F6BB42?style=flat-square&logo=liberapay&logoColor=black)](https://liberapay.com/subhangadirli/) [![Support via Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/subhangadirli) [![Support via Kofe.al](https://img.shields.io/badge/Kofe.al-6F4E37?style=flat-square&logo=coffeescript&logoColor=white)](https://kofe.al/@subhangadirli)
+<a href="https://www.patreon.com/subhangadirli"><img src="https://img.shields.io/badge/Patreon-FF424D?style=flat-square&logo=patreon&logoColor=white" alt="Support via Patreon"></a> <a href="https://liberapay.com/subhangadirli/"><img src="https://img.shields.io/badge/Liberapay-F6BB42?style=flat-square&logo=liberapay&logoColor=black" alt="Support via Liberapay"></a> <a href="https://ko-fi.com/subhangadirli"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" alt="Support via Ko-fi"></a> <a href="https://kofe.al/@subhangadirli"><img src="https://img.shields.io/badge/Kofe.al-6F4E37?style=flat-square&logo=coffeescript&logoColor=white" alt="Support via Kofe.al"></a>
+</pre>
