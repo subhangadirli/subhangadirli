@@ -1,3 +1,4 @@
+<pre>
  ____        _     _汉 
 / ___| _   _| |__ | |__   __ _ _ __ 
 \___ \| | | | '_ \| '_ \ / _` | '_ \ 
@@ -7,6 +8,7 @@
 > OS:      Zorin OS / Alpine Linux
 > Tools:   Podman, Forgejo Actions, Webhooks
 > Status:  Fixing the server build
+</pre>
 
 Hi human being
 
