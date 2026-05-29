@@ -5,14 +5,14 @@
 /___/\_,_/_.__/_//_/\_,_/_//_/  \___/\_,_/\_,_/_/_/ /_/_/  
                                                            
 
-I am <b>Subhan Gadirli</b>. Chief Fork Officer at <b>JK Holding.</b> Full-stack developer & Copyleft activist.
+I am <b>Subhan Gadirli</b>. Chief Fork Officer at <b>JK Holding.</b> Software Developer & Copyleft activist.
 
 Community Leader at https://githubcommunity.az/
 
 ### Contact
 
 * Email: subhanqedirli@protonmail.com
-* Website: https://jkgadirli.dev/
+* Website: https://jkgadirli.dev/ && http://jkgadirli.libre/
 * LinkedIn: https://www.linkedin.com/in/subhangadirli/
 * Mastodon: https://mastodon.social/@subhanqedirli
    
