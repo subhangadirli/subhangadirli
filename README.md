@@ -12,7 +12,7 @@ Community Leader at https://githubcommunity.az/
 ### Contact
 
 * Email: subhanqedirli@protonmail.com
-* Website: https://jkgadirli.dev/ && http://jkgadirli.libre/
+* Website: https://jkgadirli.dev/
 * LinkedIn: https://www.linkedin.com/in/subhangadirli/
 * Mastodon: https://mastodon.social/@subhanqedirli
    
